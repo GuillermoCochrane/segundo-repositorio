@@ -1,2 +1,3 @@
 # Este es mi segundo repositorio!!
-## Este es un repositorio de preuba para aprender a subir repos desde VSCode
+## Del segundo laboratorio del curso de python
+Este es un repositorio de prueba para aprender a subir repos desde VSCode
