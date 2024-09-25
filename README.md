@@ -1,2 +1,2 @@
 # Este es mi segundo repositorio!!
-## esto seria un h2
+## Este es un repositorio de preuba para aprender a subir repos desde VSCode
